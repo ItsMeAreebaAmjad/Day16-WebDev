@@ -1,0 +1,36 @@
+body{
+    background-color: darkgray;
+}
+
+.one{
+height:300px;
+width:550px;
+background-color: white;
+border-radius: 10px;
+margin-left: 450px;
+margin-top: 150px;
+
+}
+
+.one h1{
+    text-align: center;
+    padding-top: 30px;
+    font-family:sans-serif;
+}
+
+.one p{
+    padding-left: 150px;
+    font-weight: bold;
+}
+
+.one button{
+    height:40px;
+    width:130px;
+    background-color: darkgray;
+    color: black;
+    border-radius: 5px;
+    margin-left: 200px;
+    margin-top: 80px;
+    outline: none;
+}
+
